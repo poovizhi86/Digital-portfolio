@@ -95,7 +95,7 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src="./image/profile.jpg" alt="Your Profile Picture" class="profile-picture">
+            <img src="passport photo.jpg" alt="Your Profile Picture" class="profile-picture">
             <h1>poovizhi p</h1>
             <p>Am BSC ComputerScience</p>
         </div>
@@ -160,7 +160,7 @@
         <div class="section-content">
             <center>
             <h2>Resume</h2>
-            <a href="IMAGE (1).pdf" target="_blank" class="download-button">Download CV</a>
+            <a href="resume.pdf" target="_blank" class="download-button">Download CV</a>
         </center>
         </div>
         
